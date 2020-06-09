@@ -138,10 +138,6 @@ function calcRoute(city) {
 
             $('#distance').val(distance_km);
 
-            $.post("connection/proceed_load.php", {delivery_distance: 'data', city:city, distance:distance_km}, function (e){
-                order_deatils_refresh();
-            });
-
             //alert('test');
 
             //display summary into summary block

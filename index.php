@@ -45,7 +45,7 @@
     <!-- Left Navigation-->
     <nav id="menu1" role="navigation"> <a href="#chapterintroduction"><span id="link_introduction" class="active">Home</span></a> <a href="#chapterabout"><span id="link_about">About</span></a> <a href="#chapterskills"><span id="link_skills">CLASSES</span></a> <a href="#chapterexperience"><span id="link_experience">LESSONS</span></a> <a href="#chaptereducation"><span id="link_education">PRICING</span></a> <a href="#chapterportfolio"><span id="link_portfolio">Stories</span></a><a href="#chaptercontact">
       
-      <span id="link_contact">Contact</span></a><a href="blog.html"><span id="link_blog">Blog</span></a></nav>
+      <span id="link_contact">Contact</span></a><a href="#"><span id="link_blog">Blog</span></a></nav>
     <div class="social"> <a href="https://www.facebook.com/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a> <a href="https://plus.google.com/" target="_blank" class="google-plus"><i class="fa fa-google-plus"></i></a> </div>
     <div class="copyright"> © IT Samurai.<br>
       All Rights Reserved. </div>
@@ -109,7 +109,7 @@
                   	<div class="control-group source-container" style="display: none;">
                   		<label class="control-label" for="inputEmail">Journey Start From :</label>
                   		<div class="controls">
-                  			<input type="text" id="fromAddress" name="from" class="input-xlarge" value="Colombo, Sri Lanka">
+                  			<input type="text" id="fromAddress" name="from" class="input-xlarge" value="Kurunegala, Sri Lanka">
                   		</div>
                   	</div>
                   	<div class="form-group" style="width: 50%">
@@ -126,9 +126,11 @@
                   	</div>
                   	<div class="form-group" style="width: 50%">
                   		<select style="width: -webkit-fill-available; height:49px;">
-                  			<option>Kurunegala</option>
-                  			<option>Kurunegala</option>
-                  			<option>Kurunegala</option>
+                  			<option>Select a class...</option>
+                  			<option>2020 O/L</option>
+                  			<option>2021 O/L</option>
+                  			<option>2020 A/L</option>
+                  			<option>2021 A/L</option>
                   		</select>
                   	</div>
                   	<div class="form-group">
