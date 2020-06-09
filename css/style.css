@@ -110,7 +110,7 @@ input[type="text"], textarea{
     border: 1px solid #dfdfdf;
     color: #a6a6a6;
     resize: none;
-    width: 95.2%;
+    width: -webkit-fill-available;
     font-size: 14px;
     margin: 20px 0 0;
     -webkit-user-select: text;
@@ -1305,7 +1305,7 @@ iframe, embed, object {
 }
 .form-group{
     float: left;
-    margin-bottom: 35px;
+    /*margin-bottom: 35px;*/
     width: 100%;
 }
 
