@@ -37,7 +37,7 @@
   <aside class="menu" id="menu">
     <div class="logo"> 
       <!-- Logo image--> 
-   <!--    <img src="images/logo.png" width="140" height="140" alt=""/>  -->
+      <img src="images/logo.png" width="140" height="140" alt=""/> 
       <!-- Logo name--> 
       <span>IT SAMURAIS</span></div>
     <!-- Mobile Navigation--> 
